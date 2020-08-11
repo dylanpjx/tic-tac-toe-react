@@ -1,4 +1,4 @@
-# Tic-Tac-Toe
+# tic-tac-toe-react
  
 Tic-tac-toe website made using React following the [official tutorial](https://reactjs.org/tutorial/tutorial.html).
 
