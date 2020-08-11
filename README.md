@@ -1,6 +1,6 @@
 # tic-tac-toe-react
  
-Tic-tac-toe website made using React following the [official tutorial](https://reactjs.org/tutorial/tutorial.html).
+Tic-tac-toe web app made using React following the [official tutorial](https://reactjs.org/tutorial/tutorial.html).
 
 Key learning points: 
 - Break a website up into multipe working components 
